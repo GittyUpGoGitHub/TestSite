@@ -1,5 +1,5 @@
 // test.js
-console.log("hello world");
+console.log("hello NEW world");
 
 var x = {
   name: "hello",
