@@ -25,9 +25,6 @@ CONTROL_CODE    = 00000000 00000000;
 
 /MN
 :  !******************************* ;
-:  !Magna Standards Ver 7.7 ;
-:  !Line- SILL PONY-LH ;
-:  !Platform- 4529-HONDA SILL ;
 :  !Robot- 110R1 ;
 :  !Application- GEO Welding ;
 :  !Operation- Station 010L ;
